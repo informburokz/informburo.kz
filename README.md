@@ -1,0 +1,2 @@
+# informburo.kz
+Browser NEWS
